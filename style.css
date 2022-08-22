@@ -1,0 +1,91 @@
+
+*{
+  margin: 0;
+  padding: 0;
+}
+.dir{
+  width: 800px;
+  height: 800px;
+}
+.conteiner{
+  max-width: 1368px;
+margin: 0 auto;
+}
+.iphone{
+  size: 100px;
+  display: inline-block;
+}
+.ipad{
+  display: inline-block;
+}
+.airpods{
+  display: inline-block;
+}
+.i{
+  margin-left: 100px;
+}
+
+.iphones{
+  display: inline-block;
+}
+.wertex{
+display: inline-block;
+
+}
+.mini{
+  display: inline-block;
+}
+.pro{
+  display: inline-block;
+}
+.div p {
+  margin-left: 100px;
+
+}
+.ipadpron{ 
+  display: inline-block;
+}
+.ipadmini{
+  display: inline-block;
+}
+.ipadminid{
+display: inline-block; 
+size: 100px;
+}
+.ser{
+  /* display: inline-block; */
+}
+.airpods d{
+  display: inline-block;
+}
+.airpods f{
+  display: inline-block;
+}
+.ser p{
+  margin-left: 100px;
+}
+ .rag{
+  display: inline-block;}
+.pencil{
+  display: inline-block;
+}
+.tv{
+  display: inline-block;
+}
+.promax{
+  display: inline-block;
+}
+.pro{
+  display: inline-block;
+}
+.mini{
+  display: inline-block;
+}
+
+  
+@media  (max-width:479px) 
+{
+.dir{
+  display: none;
+}
+}
